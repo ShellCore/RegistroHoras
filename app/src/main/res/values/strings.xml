@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Registro Horas</string>
+    <string name="main.btn.begin_day">Inicio del día</string>
+    <string name="main.btn.start_dinner">Salida a comer</string>
+    <string name="main.btn.stop_dinner">Llegada de comer</string>
+    <string name="main.btn.end_day">Fin del día</string>
+    <string name="main.hint.comments">Comentarios</string>
+</resources>
